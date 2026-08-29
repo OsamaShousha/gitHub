@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+.hero {
+    background-color: antiquewhite;
+    color: black;
+    padding: 2rem;
+    margin: 1rem;
+    font-family: sans-serif;
+}

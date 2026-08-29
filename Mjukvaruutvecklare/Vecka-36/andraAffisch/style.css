@@ -9,4 +9,8 @@
     background-color: antiquewhite;
     margin: 0.5rem;
     padding: 1.5rem;
+    display: flex;
+    justify-content:space-between;
+    gap: 20px;
+    align-items: center;
 }

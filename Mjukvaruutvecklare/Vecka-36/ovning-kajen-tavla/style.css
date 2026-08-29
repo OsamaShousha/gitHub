@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tavla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:5rem;
+   
+}
+
+.tavla article {
+    background-color: rgb(219, 225, 231);
+    margin: 2rem;
+    padding: 2rem;
+    border: 1px solid #cccc;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    color: 0f0f0f;
+    background-color: antiquewhite;
+    margin: 0.5rem;
+    padding: 1.5rem;
+}

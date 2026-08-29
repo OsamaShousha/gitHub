@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#banor , h1 {
+  margin: 2rem;
+  text-align: center;
+
+}
+
+.ban-tavla {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 3rem;
+
+}
+
+.ban {
+    border: 1px solid #cccc;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: aliceblue;
+    text-align: center;
+}
+

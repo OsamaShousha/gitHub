@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+.hero {
+    font-family: sans-serif;
+    margin: 2rem;
+    padding: 1.5rem;
+    background-color: #b0b0bb;
+
+
+}
+
+.skylt  { 
+color: #f0f0f0; font-family: sanse, serif; 
+background-color: #0b0b0b;
+padding: 1.5rem;
+
+
+}

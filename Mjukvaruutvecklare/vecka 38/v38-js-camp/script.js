@@ -21,3 +21,27 @@ console.log(isVip);
  console.log(totalMinutes(2, 15));
 
  console.log(totalMinutes(3,6));
+
+ const isMember = true;
+let shipping = 79;
+
+if (isMember === true) {
+  shipping = 0;
+} else {
+  console.log("Ordinarie frakt");
+}
+console.log(shipping);
+
+const cities = ["Paris", "Stockholm", "Santander"];
+console.log(cities[0]);
+console.log(cities.length);
+
+const product = { title: "Sängen", stock: 45, inStock: false };
+console.log(product.title);
+console.log(product.inStock);
+
+for (const city of cities) {
+     console.log(city);
+}
+ 
+  

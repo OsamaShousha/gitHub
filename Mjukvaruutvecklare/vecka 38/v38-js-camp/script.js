@@ -12,4 +12,12 @@ ticketCount = 10;
 console.log(ticketCount);
 const isVip = false;
 console.log(isVip);
- eventName = "Nord Glow";
+//  eventName = "Nord Glow";
+
+ function totalMinutes(hours, minutes){
+      return hours * 60 + minutes;
+ }
+
+ console.log(totalMinutes(2, 15));
+
+ console.log(totalMinutes(3,6));

@@ -43,5 +43,15 @@ console.log(product.inStock);
 for (const city of cities) {
      console.log(city);
 }
+
+const tempC = 5;
+
+if (tempC > 0) {
+  console.log("varmt");
+} else if (tempC >= 10) {
+  console.log("ljummet");
+} else {
+  console.log("kallt");
+}
  
   

@@ -1,0 +1,11 @@
+#fun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+#btn_1, #btn_2{
+    width: 4rem;
+    height: 2rem;
+}
